@@ -288,8 +288,8 @@ $
 
 ## Authors :black_nib:
 
-* Joseph Mahiuha <[Joseph Mahiuha](https://github.com/Mahiuha)>
-* Lewis Mwaura <[Lewis Mwaura](https://github.com/lew-monk)>
+* Nenba Jonathan <[Nenba Jonathan](https://github.com/nejos97)>
+* Biroue Isaac <[Biroue Isaac](https://github.com/biroue10)>
 
 ## License :lock:
 
